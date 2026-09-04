@@ -15,9 +15,9 @@ This repository contains my personal solutions to these problems, automatically 
 
 Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://www.tensortonic.com/api/badge/tousiftanzim123.svg" alt="TensorTonic Verified Solutions" width="100%" />
-</p>
+</p> -->
 
 | Problem | Description | Link |
 |---|---|---|
